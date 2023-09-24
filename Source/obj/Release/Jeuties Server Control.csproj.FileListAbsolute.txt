@@ -1,0 +1,12 @@
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\bin\Release\JeutiesServerControl.exe
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\bin\Release\JeutiesServerControl.pdb
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\Jeuties Server Control.csproj.AssemblyReference.cache
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\Jeuties Server Control.csproj.SuggestedBindingRedirects.cache
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutieControl.About.resources
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutieControl.Form1.resources
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutieControl.Help.resources
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutieControl.Properties.Resources.resources
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\Jeuties Server Control.csproj.GenerateResource.cache
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\Jeuties Server Control.csproj.CoreCompileInputs.cache
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutiesServerControl.exe
+F:\ARTS shadowlands server\Jeutie-s-Server-Control-main\Source\obj\Release\JeutiesServerControl.pdb
